@@ -1,4 +1,4 @@
-const BASE_URL = "https://swf-backend-jul-23.onrender.com/";
+const BASE_URL = "https://swf-backend-jul-23.onrender.com";
 let currentQuestionId = null;
 let selectedOption = "";
 
